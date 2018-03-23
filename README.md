@@ -18,7 +18,7 @@
 
 **Βιβλίο μαθήματος:** 
 
-* [Ο Προγραμματισμός της Διάδρασης](http://www.pibook.gr).
+* [Ο Προγραμματισμός της Διάδρασης](http://mibook.org/gr).
 
 **Βαθμολογία:** 100% [project](https://courses-ionio.github.io/projects/): 40-40-20
 
